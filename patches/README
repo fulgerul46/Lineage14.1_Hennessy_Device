@@ -1,0 +1,7 @@
+```
+cd WORKING_DIR
+sh device/xiaomi/hennessy/patches/install.sh
+sh device/xiaomi/hennessy/patches/uninstall.sh
+```
+sh device/xiaomi/hennessy/patches_decker/apply-patches.sh
+sh device/xiaomi/hennessy/patches_decker/check-patches.sh
